@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **java,html,css,mysql**
 
-- 📫 How to reach me **op639587@gmail.com**
+- 📫 How to reach me **omkar782185@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
